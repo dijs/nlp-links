@@ -1,0 +1,19 @@
+{
+  "name": "nlp-links",
+  "version": "0.0.1",
+  "description": "Link Grammar plugin for nlp_compromise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Richard van der Dys",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "nlp_compromise": "^5.2.0",
+    "should": "^9.0.0"
+  },
+  "dependencies": {
+    "link-grammar": "0.0.9"
+  }
+}
